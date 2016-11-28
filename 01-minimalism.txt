@@ -1,0 +1,4 @@
+1. Always keep the Project side bar closed. It can be toggled using ALT + 1.
+2. When the side bar is closed, we would like to access files.
+   We can navigate by going through the Navigate menu. We can hence navigate by
+   1. By Class : CTRL + N
